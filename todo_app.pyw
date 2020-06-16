@@ -24,7 +24,7 @@ def update_list(tasks):
 
 tasks = load_tasks()
 layout = [
-         [sg.Text('Things to do today! Add a New Item Below')],
+         [sg.Text('Things to do today! Add a new item below')],
          [sg.Input(key='-IN-', size=(43, 4))],
          [sg.Listbox(values=tasks, size=(41, 15), key="items")], 
          [sg.Button('Add', key='add_item', size=(8, 3)), sg.Button('Remove', key='del_item', size=(8, 3)),

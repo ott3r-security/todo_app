@@ -1,5 +1,6 @@
-Go swimming with some aligators
-Buy groceries
-Eat a tomato
-Learn to sail
-Tame a mongoose
+Schedule reclaim shipment
+Follow up on Tomahawk
+Follow up on reclaim with Ben
+Cost analysis on Tomahawk
+Add gitignore for text file
+Add enter feature for added items in todo
