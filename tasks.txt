@@ -1,6 +1,0 @@
-Schedule reclaim shipment
-Follow up on Tomahawk
-Follow up on reclaim with Ben
-Cost analysis on Tomahawk
-Add gitignore for text file
-Add enter feature for added items in todo
